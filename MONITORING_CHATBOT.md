@@ -1,6 +1,6 @@
 Pour monitorer notre chatbot hébergé via AWS et Gradio, vous pouvez suivre ce runbook ajusté pour inclure la configuration spécifique nécessaire pour le monitoring du Chatbot et des endpoints associés.
 
-## Runbook SRE pour le Monitoring d'un Chatbot Gradio
+## Runbook SRE pour le Monitoring du Chatbot Gradio
 
 ### Table des matières
 
